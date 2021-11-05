@@ -27,10 +27,10 @@ flask-web-app
 - flask run
 
 Подклчение через браузер:
-http://127.0.0.1:5000/home
+- http://127.0.0.1:5000/home
 
-login: user
-password: user_password
+- login: user
+- password: user_password
 
 Переменные окружения:
 - .flaskenv
