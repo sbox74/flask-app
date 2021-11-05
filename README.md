@@ -21,11 +21,11 @@ flask-web-app
  cd ./flask-app
 
 Выполнить команды:
- python3 -m venv venv
- . venv/bin/activate
- pip install -r requiremants.txt
- flask run
+- python3 -m venv venv
+- . venv/bin/activate
+- pip install -r requiremants.txt
+- flask run
 
-Переменные окружения находятся в
- .flaskenv
+Переменные окружения:
+- .flaskenv
 
