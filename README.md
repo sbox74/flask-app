@@ -15,17 +15,17 @@ flask-web-app
 - требуемые для работы приложения названия пакетов с их версиями лежат в файле requirements.txt
 
 
-### Запуск
+### Запуск:
 
 Перейти в каталог проекта (flask-app):
-cd ./flask-app
+ cd ./flask-app
 
 Выполнить команды:
-python3 -m venv venv
-. venv/bin/activate
-pip install -r requiremants.txt
-flask run
+ python3 -m venv venv
+ . venv/bin/activate
+ pip install -r requiremants.txt
+ flask run
 
 Переменные окружения находятся в
-.flaskenv
+ .flaskenv
 
