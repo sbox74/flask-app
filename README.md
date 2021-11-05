@@ -26,5 +26,12 @@ flask-web-app
 - pip install -r requiremants.txt
 - flask run
 
+Подклчение через браузер:
+http://127.0.0.1:5000/home
+
+login: user
+password: user_password
+
 Переменные окружения:
 - .flaskenv
+
