@@ -18,7 +18,7 @@ flask-web-app
 ### Запуск:
 
 Перейти в каталог проекта (flask-app):
- cd ./flask-app
+- cd ./flask-app
 
 Выполнить команды:
 - python3 -m venv venv
@@ -28,5 +28,3 @@ flask-web-app
 
 Переменные окружения:
 - .flaskenv
-
-.
