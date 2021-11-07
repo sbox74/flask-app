@@ -23,7 +23,7 @@ flask-web-app
 Выполнить команды:
 - python3 -m venv venv
 - . venv/bin/activate
-- pip install -r requiremants.txt
+- pip install -r requirements.txt
 - flask run
 
 Подклчение через браузер:
